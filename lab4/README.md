@@ -5,7 +5,7 @@
 #### Условие:
 Дана перепись населения США:
 
-<img src = "./images/population.png" width = "267" height = "258" align = "right"/>
+<img src = "./images/population.png" width = "267" height = "258" align = "center"/>
 
 #### Постоим интерполяцию Ньютона:
 Экстраполируем точку в 2010 году и построим график:
